@@ -4,7 +4,6 @@ import { ThemeToggle } from '../ui/theme-toggle';
 import { Button } from '../ui/button';
 import { useAuthStore } from '../../store/auth-store';
 import { cn } from '../../lib/utils';
-
 import LogoValkyra from '../../assets/logo/LogoValkyra.tsx';
 
 interface HeaderProps {
